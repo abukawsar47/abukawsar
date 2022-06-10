@@ -1,0 +1,19 @@
+.fd-content {
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    margin: 15px;
+    border-radius: 15px;
+    background-color: #3A4256;
+}
+
+.fd-content img {
+    width: 58px;
+    margin: auto;
+}
+
+.fd-content h4 {
+    margin: 10px;
+    font-weight: bold;
+}

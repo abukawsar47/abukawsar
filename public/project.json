@@ -1,0 +1,158 @@
+[
+    {
+        "_id": 1,
+        "name": "LOOK UP",
+        "title": "Manufacturer's Website",
+        "detail": {
+            "description": "First recorded in 1300–50; Middle English, from Medieval Latin textus “text, terms,” Latin: “text, structure,” originally, “pattern of weaving, texture (of cloth),” equivalent to tex(ere) “to weave” + -tus suffix of verbal action",
+            "column": {
+                "one": "11111111111111111111111111111111111111",
+                "two": "11111111111111111111111111111111111111",
+                "three": "11111111111111111111111111111111111111",
+                "four": "11111111111111111111111111111111111111",
+                "five": "11111111111111111111111111111111111111"
+            },
+            "tools": "dsfiahguifdghiugigiu"
+        },
+        "img": {
+            "main": "https://i.ibb.co/qjhbzVM/look.png",
+            "one": "",
+            "two": ""
+        },
+        "live_link": "https://assignment-12-lookup.web.app/",
+        "code_link": {
+            "client": "https://github.com/abukawsar47/assignment-12-client-side",
+            "server": "https://github.com/abukawsar47/assignment-12-server-side"
+        }
+    },
+    {
+        "_id": 2,
+        "name": "Car Dealer",
+        "title": "Warehouse Management",
+        "detail": {
+            "description": "First recorded in 1300–50; Middle English, from Medieval Latin textus “text, terms,” Latin: “text, structure,” originally, “pattern of weaving, texture (of cloth),” equivalent to tex(ere) “to weave” + -tus suffix of verbal action",
+            "column": {
+                "one": "11111111111111111111111111111111111111",
+                "two": "11111111111111111111111111111111111111",
+                "three": "11111111111111111111111111111111111111",
+                "four": "11111111111111111111111111111111111111",
+                "five": "11111111111111111111111111111111111111"
+            },
+            "tools": "dsfiahguifdghiugigiu"
+        },
+        "img": {
+            "main": "https://i.ibb.co/HtBJ2MX/carD.png",
+            "one": "",
+            "two": ""
+        },
+        "live_link": "",
+        "code_link": {
+            "client": "https://github.com/abukawsar47/assignment-12-client-side",
+            "server": "https://github.com/abukawsar47/assignment-12-server-side"
+        }
+    },
+    {
+        "_id": 3,
+        "name": "Luvfit",
+        "title": "Independent Service Provider",
+        "detail": {
+            "description": "First recorded in 1300–50; Middle English, from Medieval Latin textus “text, terms,” Latin: “text, structure,” originally, “pattern of weaving, texture (of cloth),” equivalent to tex(ere) “to weave” + -tus suffix of verbal action",
+            "column": {
+                "one": "11111111111111111111111111111111111111",
+                "two": "11111111111111111111111111111111111111",
+                "three": "11111111111111111111111111111111111111",
+                "four": "11111111111111111111111111111111111111",
+                "five": "11111111111111111111111111111111111111"
+            },
+            "tools": "dsfiahguifdghiugigiu"
+        },
+        "img": {
+            "main": "https://i.ibb.co/JqjMD1P/lub.png",
+            "one": "",
+            "two": ""
+        },
+        "live_link": "",
+        "code_link": {
+            "client": "https://github.com/abukawsar47/assignment-12-client-side",
+            "server": "https://github.com/abukawsar47/assignment-12-server-side"
+        }
+    },
+    {
+        "_id": 4,
+        "name": "Abu Sports",
+        "title": "Product Analysis Website",
+        "detail": {
+            "description": "First recorded in 1300–50; Middle English, from Medieval Latin textus “text, terms,” Latin: “text, structure,” originally, “pattern of weaving, texture (of cloth),” equivalent to tex(ere) “to weave” + -tus suffix of verbal action",
+            "column": {
+                "one": "11111111111111111111111111111111111111",
+                "two": "11111111111111111111111111111111111111",
+                "three": "11111111111111111111111111111111111111",
+                "four": "11111111111111111111111111111111111111",
+                "five": "11111111111111111111111111111111111111"
+            },
+            "tools": "dsfiahguifdghiugigiu"
+        },
+        "img": {
+            "main": "https://i.ibb.co/zJK0mcQ/abu.png",
+            "one": "",
+            "two": ""
+        },
+        "live_link": "",
+        "code_link": {
+            "client": "https://github.com/abukawsar47/assignment-12-client-side",
+            "server": "https://github.com/abukawsar47/assignment-12-server-side"
+        }
+    },
+    {
+        "_id": 5,
+        "name": "...",
+        "title": "...",
+        "detail": {
+            "description": "First recorded in 1300–50; Middle English, from Medieval Latin textus “text, terms,” Latin: “text, structure,” originally, “pattern of weaving, texture (of cloth),” equivalent to tex(ere) “to weave” + -tus suffix of verbal action",
+            "column": {
+                "one": "11111111111111111111111111111111111111",
+                "two": "11111111111111111111111111111111111111",
+                "three": "11111111111111111111111111111111111111",
+                "four": "11111111111111111111111111111111111111",
+                "five": "11111111111111111111111111111111111111"
+            },
+            "tools": "dsfiahguifdghiugigiu"
+        },
+        "img": {
+            "main": "https://i.ibb.co/nBQ76VV/coming-soon.png",
+            "one": "https://i.ibb.co/nBQ76VV/coming-soon.png",
+            "two": "https://i.ibb.co/nBQ76VV/coming-soon.png"
+        },
+        "live_link": "",
+        "code_link": {
+            "client": "https://github.com/abukawsar47/assignment-12-client-side",
+            "server": "https://github.com/abukawsar47/assignment-12-server-side"
+        }
+    },
+    {
+        "_id": 6,
+        "name": "...",
+        "title": "...",
+        "detail": {
+            "description": "First recorded in 1300–50; Middle English, from Medieval Latin textus “text, terms,” Latin: “text, structure,” originally, “pattern of weaving, texture (of cloth),” equivalent to tex(ere) “to weave” + -tus suffix of verbal action",
+            "column": {
+                "one": "11111111111111111111111111111111111111",
+                "two": "11111111111111111111111111111111111111",
+                "three": "11111111111111111111111111111111111111",
+                "four": "11111111111111111111111111111111111111",
+                "five": "11111111111111111111111111111111111111"
+            },
+            "tools": "dsfiahguifdghiugigiu"
+        },
+        "img": {
+            "main": "https://i.ibb.co/nBQ76VV/coming-soon.png",
+            "one": "https://i.ibb.co/nBQ76VV/coming-soon.png",
+            "two": "https://i.ibb.co/nBQ76VV/coming-soon.png"
+        },
+        "live_link": "",
+        "code_link": {
+            "client": "https://github.com/abukawsar47/assignment-12-client-side",
+            "server": "https://github.com/abukawsar47/assignment-12-server-side"
+        }
+    }
+]
